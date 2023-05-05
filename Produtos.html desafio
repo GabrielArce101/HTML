@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Produtos</title>
+
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body class="Produtos">
+    
+<nav>
+    <img src="2578520-entrega-embalagem-papelao-caixa-rastreamento-localizacao-ponteiro-carga-distribuicao-logistica-remessa-de-mercadorias-silhueta-icone-estilo-gratis-vetor-removebg-preview.png" alt="Carregando..."id="img-logo">
+    <ul>
+        <li><a href="index.html">HOME</a></li>
+        <li><a href="Produtos.html">Produtos</a></li>
+        <li><a href="Cadastro.html">Cadastro</a></li>
+        <li><a href="Login.html">Login</a></li>
+    </ul>
+</nav>
+<div class="produtos">
+    <div class="item1">
+        <img class="anuncio" src="iphone-14-pro-max-colors-removebg-preview.png" alt="Carregando">
+        <p class="texto-info">Iphone 14 pro-max</p>
+        <button id="btn-comprar">COMPRAR</button> 
+    </div>
+
+    <div class="item1">
+        <img class="anuncio" src="Fone de ouvido.png" alt="Carregando">
+        <p class="texto-info">Fone de ouvido Bluetooth</p>
+        <button id="btn-comprar">COMPRAR</button>      
+    </div>
+   
+    <div class="item1">
+        <img class="anuncio" src="images-removebg-preview.png" alt="Carregando">
+        <p class="texto-info">Perfume Dior</p>
+        <button id="btn-comprar">COMPRAR</button>      
+    </div>
+   
+    <div class="item1">
+        <img class="anuncio" src="Tênis.png" alt="Carregando">
+        <p class="texto-info">Tênis Jordan</p>
+        <button id="btn-comprar">COMPRAR</button>      
+    </div>
+</div>
+
+
+</body>
+</html>
