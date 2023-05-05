@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arce's Importados</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body class="principal">
+    <nav class="menu">
+        <img src="2578520-entrega-embalagem-papelao-caixa-rastreamento-localizacao-ponteiro-carga-distribuicao-logistica-remessa-de-mercadorias-silhueta-icone-estilo-gratis-vetor-removebg-preview.png" alt=""id="img-logo">
+   <ul>
+        <li><a href="index.html">HOME</a></li>
+        <li><a href="Produtos.html">Produtos</a></li>
+        <li><a href="Cadastro.html">Cadastro</a></li>
+        <li><a href="Login.html">Login</a></li>
+    </ul>
+</nav>
+<div class="container">
+        <img src="loja-de-importados-1-1.jpg" alt=""id="img-login">
+<h1 class="texto1">Arce's importados</h1>
+<h1 class="texto2">A melhor loja de produtos importados do Brasil!</h1>
+
+</div>
+
+
+</body>
+</html>
