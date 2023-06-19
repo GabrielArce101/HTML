@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body class="fundo">
+        <header class="header">
+            <nav class="navbar">
+                <ul class="nav-menu">
+                    <li class="nav-item">
+                        <a href="Home.html" class="nav-link">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">História</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">Galeria</a>
+                    </li>
+                </ul>
+                <div class="hamburguer">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
+
+            </nav>
+        </header>                
+        <h1 class="texto-img">Aqui estão sendo apresentadas as 5 principais inteligências artificiais mais usadas no mundo:</h1>
+        
+        <div class="cards">        
+
+            <button class="item2">
+                <img class="img1" src="img/chatgpt.webp" alt="Carregando">
+                <h1 class="nome">ChatGPT</h1>
+            </button>
+
+            <button class="item2">
+                <img class="img1" src="img/100-midjourney-prompts.jpg" alt="Carregando">
+                <h1 class="nome">Midjourney</h1>
+            </button> 
+
+            <button class="item2">
+                <img class="img1" src="img/download.png" alt="Carregando">
+                <h1 class="nome">Copy</h1>
+            </button> 
+
+            <button class="item2">
+                <img class="img1" src="img/download-removebg-preview.png" alt="Carregando">
+                <h1 class="nome">Tome</h1>
+            </button> 
+
+            <button class="item2">
+                <img class="img1" src="img/Adobe.webp" alt="Carregando">
+                <h1 class="nome">Adobe Firefly</h1>
+            </button>
+            </div>
+<div class="Galeria">
+        <h1 class="titulo">Aqui poderemos encontrar algumas fotos geradas por IAs:</h1>
+    <div class="imagens"> 
+        <img class="img2" src="img/imagem1.webp" alt="Carregando">
+        <img class="img2" src="img/imagem2.png" alt="Carregando">
+        <img class="img2" src="img/img 23.jpg" alt="Carregando">
+        <img class="img2" src="img/img24.webp" alt="Carregando">
+        <img class="img2" src="img/image-1.png" alt="Carregando">
+        <img class="img2" src="img/img33.png" alt="Carregando">
+    </div>
+</div>
+<div class="textos">
+    <h1 class="texto-história">A História das IAs:</h1>
+        <p>
+            Existindo muito antes, a história da inteligência artificial compôs
+            diversos protagonistas, todos com a mesma vontade: desenvolver uma
+            máquina na qual tivesse a capacidade humana de pensar e agir como 
+            um. Uns desses personagens foi Alan Turing, que descobriu um jeito
+            de fazer seus testes com as máquinas. Seu intuito era realizar avaliações
+            e saber se seria possível em uma conversa por escrito, a máquina se passar
+            por um ser humano. Conhecido como o teste de Turing, esse foi um marco na
+            história da inteligência artificial.
+        <p>
+            
+        <h2 class="texto-atualidade">As IAs na atualidade:</h2>
+        <p> 
+            Passando para a atualidade, o mundo está em constante evolução e, 
+            para encarar essas mudanças, é preciso reinventar a forma como 
+            interagimos com as tecnologias. Em meio a tantas transformações 
+            nos últimos anos, a inteligência artificial ganhou um novo significado. 
+            A importância dessa tecnologia tem como seus principais objetivos a,
+            melhora dos processos de negócio, emitir insights mais precisos e construir 
+            produtos mais inteligentes, para combater as ameaças competitivas.
+        </p>
+        
+        <H2>Qual o futuro para as IAs?</H2>
+        <p class="texto-futuro">
+            A inteligência artificial (IA) tem evoluído rapidamente nos últimos anos, 
+            e a cada dia que passa, novas descobertas e avanços são feitos. Com isso 
+            em mente, é interessante imaginar o que o futuro nos reserva, especialmente
+            quando se trata de IA, como o ChatGPT, desenvolvido pela OpenAI.
+
+            Em um horizonte de cinco anos, podemos esperar que a IA, incluindo o ChatGPT,
+            se torne ainda mais sofisticada e integrada em nossas vidas diárias. Assistente
+            virtual, como o ChatGPT, podem evoluir para se tornarem verdadeiros assistentes
+            pessoais, ajudando-nos em tarefas diárias, como organizar compromissos, responder
+            e-mails e gerenciar nossa rotina. Além disso, a IA provavelmente será aplicada em
+            áreas como medicina, finanças e transporte. Veremos diagnósticos mais precisos e
+            personalizados, decisões financeiras mais inteligentes e sistemas de transporte
+            autônomos mais seguros e eficientes.
+        </p>
+    </h1>
+</div>
+
+
+</body>
+<script src="menu.js"></script>
+</html>
